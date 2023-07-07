@@ -7,7 +7,7 @@
 I successfully completed the Epam UpSkill Me and IT-Academy courses in software testing.
 
 ## My CV
-[CV]()
+[CV](https://drive.google.com/drive/folders/1FPfLx78h3z02VGv8x_-YvPjRGImiPJLb)
 ## Some information about me
 ### Skills:
  - preparing test documentation (Checklists, Test Cases, Bug Reports, User Stories, Test Results Report, Test Plan, and Test Strategy)
