@@ -35,9 +35,9 @@ I successfully completed the Epam UpSkill Me and IT-Academy courses in software 
  -  NVDA Screen Reader
 
  ### Languages:
-* English (Intermediate) and continue to learn it with a tutor,
-* Polish (Upper-intermediate)
-* Russian (native) languages
+* English (Intermediate) and continue to learn it with a tutor;
+* Polish (Upper-intermediate);
+* Russian (native)
 
 ## Work Experiance:
 
