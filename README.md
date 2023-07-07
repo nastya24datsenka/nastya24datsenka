@@ -2,7 +2,7 @@
 
 
 # Anastasiya Datsenka
-## I am a junior software tester engineer
+## I am a Junior Software Tester Engineer
 
 I successfully completed the Epam UpSkill Me and IT-Academy courses in software testing.
 
